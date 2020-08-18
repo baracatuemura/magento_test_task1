@@ -1,0 +1,22 @@
+{
+    "name": "baracat/module-hreflang",
+    "description": "",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "email": "baracat@gmail.com",
+            "name": "Guilherme Baracat"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Baracat\\HrefLang\\": ""
+        }
+    }
+}
