@@ -60,8 +60,10 @@ Solution
 
 In case there are several CMS pages with same identifier, under different stores, page will display, for example :
 
-\<link rel="alternate" hreflang="en-gb" href="https://magento-store-1.com/cms-page" /\>
-\<link rel="alternate" hreflang="en-us" href="https://magento-store-2.com/cms-page" /\> 
+```
+<link rel="alternate" hreflang="en-gb" href="https://magento-store-1.com/cms-page" /\>
+<link rel="alternate" hreflang="en-us" href="https://magento-store-2.com/cms-page" /\> 
+```
 
 In case there is page for only one store it will be ommited.
 
@@ -71,7 +73,7 @@ To test this module I used four Store views and two websites (base and second):
 
 For the module to work correctly we must configure the locale option in the magento administrative panel on:
 
-**Stores -> configuration -> General ->Lacale options**
+**Stores -> configuration -> General ->Locale options**
 
 ![alt text](https://raw.githubusercontent.com/baracatuemura/magento_test_task1/master/_info/2.png)
 
@@ -91,3 +93,8 @@ I used the docker on port 8090 to simulate a multisite environment.
 License
 ------------
 This project is based in https://github.com/camplusplus/Magento-2-HrefLang
+
+------------
+My CV
+------------
+https://raw.githubusercontent.com/baracatuemura/magento_test_task1/master/_info/en-Guilherme_Baracat_Uemura_CV.pdf
