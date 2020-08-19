@@ -71,6 +71,10 @@ To test this module I used four Store views and two websites (base and second):
 
 ![alt text](https://raw.githubusercontent.com/baracatuemura/magento_test_task1/master/_info/1.png)
 
+------------
+configuration
+------------
+
 For the module to work correctly we must configure the locale option in the magento administrative panel on:
 
 **Stores -> configuration -> General ->Locale options**
