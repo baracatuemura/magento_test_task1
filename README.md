@@ -67,13 +67,13 @@ In case there is page for only one store it will be ommited.
 
 To test this module I used four Store views and two websites (base and second):
 
-![alt text](https://raw.githubusercontent.com/baracatuemura/magento_test_task2/master/_info/1.png)
+![alt text](https://raw.githubusercontent.com/baracatuemura/magento_test_task1/master/_info/1.png)
 
 For the module to work correctly we must configure the locale option in the magento administrative panel on:
 
 **Stores -> configuration -> General ->Lacale options**
 
-![alt text](https://raw.githubusercontent.com/baracatuemura/magento_test_task2/master/_info/2.png)
+![alt text](https://raw.githubusercontent.com/baracatuemura/magento_test_task1/master/_info/2.png)
 
 ------------
 Result
@@ -81,11 +81,11 @@ Result
 
 ### Screenshot of final result
 
-![alt text](https://raw.githubusercontent.com/baracatuemura/magento_test_task2/master/_info/3.png)
+![alt text](https://raw.githubusercontent.com/baracatuemura/magento_test_task1/master/_info/3.png)
 
 I used the docker on port 8090 to simulate a multisite environment.
 
-![alt text](https://raw.githubusercontent.com/baracatuemura/magento_test_task2/master/_info/4.png)
+![alt text](https://raw.githubusercontent.com/baracatuemura/magento_test_task1/master/_info/4.png)
 
 ------------
 License
